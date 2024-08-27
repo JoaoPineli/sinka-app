@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.dropzone-style-1 {
+    margin-top: 1rem;
+    border:2px solid #00b32a;
+    padding: 0px 32px 0px;
+    border-radius: 3px;
+}
+.dropzone-style-1:hover {
+    background-color: #333;
+    border: 2px dashed #007bff;
+}
+.file-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+.upload-files-1 {
+    padding: 13px 13px;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+}
+.notification-1 {
+    position: absolute;
+    right: 0;
+    width: 15rem;
+    margin: 1rem;
+}
+.admin-title {
+    position: absolute;
+    width: 100vw;
+    background-color: #444;
+    padding: 6px;
+}
+.title-btn {
+    margin: 0 0.5rem 0 0;
+    width: 12rem;
+}

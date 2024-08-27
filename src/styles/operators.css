@@ -1,0 +1,16 @@
+.table-style-1 {
+    width: fit-content;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+}
+.table-btn-1 {
+    width: 6rem;
+}
+.table-btn-2 {
+    width: 3rem;
+}
+.modal-border-1 {
+    border: 1px solid #bbb;
+}

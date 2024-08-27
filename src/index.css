@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.center-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.form-style-1 {
+    padding: 10px 20px;
+    border: solid 1px #bbb;
+    border-radius: 3px;
+}
